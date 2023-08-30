@@ -1,17 +1,17 @@
-# Automated Server Management and Monitoring System
+# 🌐 Automated Server Management and Monitoring System
 
 Automated Server Management and Monitoring System is a web-based application that allows you to automate and monitor remote servers. The project consists of a PowerShell backend and a React frontend, providing a user-friendly interface for various server management tasks.
 
-## Features
+## ✨ Features
 
-- Monitor remote servers for installed KBs, disk info, and services.
-- Create snapshots for VMs with custom names and descriptions.
-- Manage snapshots, including filtering, selection, and deletion.
-- Monitor Citrix VDA servers, connected sessions, app deployment, and disk info.
-- Copy files/folders to multiple remote machines simultaneously.
-- User authentication using domain credentials.
+- 🖥️ Monitor remote servers for installed KBs, disk info, and services.
+- 📸 Create snapshots for VMs with custom names and descriptions.
+- 📂 Manage snapshots, including filtering, selection, and deletion.
+- 🚀 Monitor Citrix VDA servers, connected sessions, app deployment, and disk info.
+- 📦 Copy files/folders to multiple remote machines simultaneously.
+- 🔑 User authentication using domain credentials.
 
-## Installation
+## 🛠️ Installation
 
 1. Clone this repository to your local machine.
 2. Navigate to the `PS_Server` directory and run the PowerShell server.
@@ -22,8 +22,7 @@ Automated Server Management and Monitoring System is a web-based application tha
    or QuickCheck_Server.exe
 3. Access the web interface by opening your browser and going to `http://localhost:9097/`.
 
- ```
-## Front End Development
+## 🚀 Front End Development
 1. Navigate to the `Quickcheck` directory and install frontend dependencies.
    ```bash
    # Example terminal commands
@@ -37,7 +36,7 @@ Automated Server Management and Monitoring System is a web-based application tha
    ```
 3. Access the web interface by opening your browser and going to `http://localhost:5173`.
 
-## Usage
+## 🚀 Usage
 
 1. Log in using your domain credentials.
 2. Navigate through different routes to monitor and manage remote servers and VMs.
@@ -48,7 +47,7 @@ Automated Server Management and Monitoring System is a web-based application tha
 7. Copy files/folders to remote machines using the "Copy" route.
 8. Log out when you're done.
 
-## Routes and Functionality
+## 🚀 Routes and Functionality
 
 - **Computers Route:**
   - Displays remote server information, installed KBs, disk details, and services.
@@ -63,16 +62,16 @@ Automated Server Management and Monitoring System is a web-based application tha
   - Copy files/folders from the local machine to remote machines.
   - Manage copy job statuses.
 
-## Bugs and Future Work
+## 🐞 Bugs and Future Work
 
 - There might be some bugs or issues related to user interactions and data synchronization.
 - Future improvements include enhancing the user interface, adding more features, and optimizing performance.
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! To report issues, provide suggestions, or contribute code, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## License
+## 📄 License
 
 This project is licensed under the MIT License. See [LICENSE.md](LICENSE.md) for more details.
 ```
