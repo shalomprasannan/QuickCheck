@@ -1,6 +1,3 @@
-Of course! Here's the README content enclosed within code blocks for easy copying:
-
-```markdown
 # Automated Server Management and Monitoring System
 
 Automated Server Management and Monitoring System is a web-based application that allows you to automate and monitor remote servers. The project consists of a PowerShell backend and a React frontend, providing a user-friendly interface for various server management tasks.
