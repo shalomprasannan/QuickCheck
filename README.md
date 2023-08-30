@@ -1,7 +1,7 @@
 # 🌐 Automated Server Management and Monitoring System
 
 Automated Server Management and Monitoring System is a web-based application that allows you to automate and monitor remote servers. The project consists of a PowerShell backend and a React frontend, providing a user-friendly interface for various server management tasks.
-You can view the detailed documentation in the [User Manual PDF](./QuickCheck V1.pdf).
+You can view the detailed documentation in the [User Manual PDF](https://github.com/shalomprasannan/QuickCheck/blob/main/QuickCheck%20V1.pdf).
 
 
 ## ✨ Features
